@@ -1,3 +1,5 @@
-# SSVEP-TSTRCA
+# Two-Step Task-Related Component Analaysis (TSTRCA)
 
-LHK
+contact : skgusrb12@gmail.com
+
+## 1. Introduction
