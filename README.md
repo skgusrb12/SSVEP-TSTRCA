@@ -6,17 +6,17 @@
 
 ## 1. Introduction
 
-This study 
+This 
 
-You can download the SSVEP EEG dataset from http://bci.med.tsinghua.edu.cn/
+If you want to run this code, which download the SSVEP EEG dataset from http://bci.med.tsinghua.edu.cn/
 
 
 ## 2. Usage
 
-- main_TSTRCA.m : 
-- TSTRCA_process.m : 
-- first_step.m : Training classifier based on TSTRCA
-- second_step.m : Classifying SSVEPs frequnecy using TSTRCA-based classifier
+- main_TSTRCA.m : main script of this sample code
+- TSTRCA_process.m : the main script of TSTRCA
+- first_step.m : Training stage of TSTRCA
+- second_step.m : Classifying SSVEP target frequnecy using TSTRCA-based ensemble classifier
 - itr.m : Calculating information transfer rate (ITR)
 
 
