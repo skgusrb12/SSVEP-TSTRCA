@@ -29,7 +29,7 @@ function [accs, itrs] = TSTRCA_process(data, win_size, win_delay)
 %       "Enhancing detection of SSVEPs for a high-speed brain speller using
 %        task-related component analysis", 
 %       IEEE Trans. Biomed. Eng, 65(1): 104-112, 2018.
-%   [3] H. K. Lee and Y.-S. Choi,
+%   [3] Y. Wang, X. Chen; X. Gao; S. Gao,
 %       "A Benchmark Dataset for SSVEP-Based Brain-Computer Interfaces",
 %        IEEE Trans. Biomed. Eng, 25(10): 1746-1752, 2017.
 %
